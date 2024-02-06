@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Manojkumar Barkul</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
-
+// <div align="center"> <img src="https://raw.githubusercontent.com/Manoj28/Manoj28/main/banner-3.png"> </div>
+<h3 align="center">A passionate Devops Engineer from India</h3> 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj2828&label=Profile%20views&color=0e75b6&style=flat" alt="manoj2828" /> </p>
 
-- 🔭 I’m currently working on **CI CD Project**
-
-- 🌱 I’m currently learning **Devops Linux Shell Script etc**
-
+- 🔭 I’m currently working on [Corporate DevOps Tools ]
+- 
+- 🌱 I’m currently learning **DevSecOps , Cloud Devops , Linux  & Shell Script etc**
+  
+- 👨‍💻 All of my projects are available at [https://github.com/Manoj28](https://github.com/Manoj28)
+- 
 - 📫 How to reach me **manoj.rhce9@gmail.com**
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
