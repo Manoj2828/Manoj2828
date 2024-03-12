@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manojkumar Barkul</h1> <div align="center"> <img src="https://raw.githubusercontent.com/Manoj2828/Manoj2828/main/Banner.jpg"> </div>
 <h3 align="center">A passionate Devops Engineer from India</h3> 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj2828&label=Profile%20views&color=0e75b6&style=flat" alt="manoj2828" /> </p>
 
 - 🔭 I’m currently working on [Corporate DevOps Tools ]
